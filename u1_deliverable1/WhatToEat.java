@@ -3,7 +3,6 @@ package u1_deliverable1;
 import java.util.Scanner;
 
 public class WhatToEat {
-	private static final String prepSuggestion = null;
 
 	public static void main(String[] Args) {
 
